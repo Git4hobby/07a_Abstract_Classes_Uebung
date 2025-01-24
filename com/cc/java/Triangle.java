@@ -12,6 +12,8 @@ public class Triangle extends SShape{
     @Override
     public double area() { 
          return base * height / 2;
+         // Beispiel: gleichseitiges Dreieck
+        //  return 3 * base;
     }
     
     
